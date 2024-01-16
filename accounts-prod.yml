@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to webhooks accounts related prod APIs"
+  message: "Hey, welcome to webhooks accounts related pro APIs"
   contactDetails:
     name: "git: accounts-prod.yml"
     email: "{cipher}a3d1487da6860da06d0b43b4451fa7311f9eed2e8bfb03690640e99ac0b27128bc9f28db365ec563242e682303897022"
